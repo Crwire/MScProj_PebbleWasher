@@ -1,0 +1,21 @@
++================================================================+
+| PebbleWasher v0.0                                              |
+|----------------------------------------------------------------|
+| Author: Crwire                                                 |
+| Created: 24 June 2014                                          |
+| Updated: 24 June 2014                                          |
++================================================================+
+
+This app is written in C for the Pebble SmartWatch for the purposes of feeding accelerometer data from the watch to a companion mobile application. 
+
+Ultimately this allows the companion application to detect a handwashing motion.
+
++================================================================+
+| CHANGELOG                                                      |
++================================================================+
+v0-0
+Project initialised and ready for when I receive a Pebble to start developing on.
+
++================================================================+
+| END                                                            |
++================================================================+

@@ -1,0 +1,17 @@
+{
+  "uuid": "ecbf35ad-6c76-4915-9022-9554db2bd21f",
+  "shortName": "PebbleWasher",
+  "longName": "PebbleWasher",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
