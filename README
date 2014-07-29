@@ -3,7 +3,7 @@
 |----------------------------------------------------------------|
 | Author: Crwire                                                 |
 | Created: 24 June 2014                                          |
-| Updated: 24 June 2014                                          |
+| Updated: 29 July 2014                                          |
 +================================================================+
 
 This app is written in C for the Pebble SmartWatch for the purposes of feeding accelerometer data from the watch to a companion mobile application. 
@@ -13,6 +13,11 @@ Ultimately this allows the companion application to detect a handwashing motion.
 +================================================================+
 | CHANGELOG                                                      |
 +================================================================+
+v0-1
+- Status bar added, icon updated, identifier added
+- Gesture activation added; punch to activate, reverse punch to deactivate
+- Timer implemented and displays properly
+
 v0-0
 Project initialised and ready for when I receive a Pebble to start developing on.
 
