@@ -6,9 +6,7 @@
 | Updated: 29 July 2014                                          |
 +================================================================+
 
-This app is written in C for the Pebble SmartWatch for the purposes of feeding accelerometer data from the watch to a companion mobile application. 
-
-Ultimately this allows the companion application to detect a handwashing motion.
+This app is written in C for the Pebble SmartWatch to provide people a method of tracking their hand washing habits. Ultimately it is hoped to increase the handwashing statistic.
 
 +================================================================+
 | CHANGELOG                                                      |
