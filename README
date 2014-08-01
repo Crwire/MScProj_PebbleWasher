@@ -1,9 +1,9 @@
 +================================================================+
-| PebbleWasher v0.0                                              |
+| PebbleWasher v0.4 BETA                                         |
 |----------------------------------------------------------------|
 | Author: Crwire                                                 |
 | Created: 24 June 2014                                          |
-| Updated: 29 July 2014                                          |
+| Updated: 01 August 2014                                        |
 +================================================================+
 
 This app is written in C for the Pebble SmartWatch to provide people a method of tracking their hand washing habits. Ultimately it is hoped to increase the handwashing statistic.
@@ -11,6 +11,21 @@ This app is written in C for the Pebble SmartWatch to provide people a method of
 +================================================================+
 | CHANGELOG                                                      |
 +================================================================+
+v0-4: SmartWash PebbleWasher is officially in Beta!
+- Changed data storage from struct to string
+- Survey not working; to implement later
+- Data logging using 'pebble logs' implemented
+
+v0-3
+- Begin and end day timer implemented and persisted
+- Mechanism updates e.g. discard accel if vibrating
+- Help implemented and various fixes
+
+v0-2
+- Navigation bar implemented and finished
+- Mechanism updates
+- Basic begin and end day implemented
+
 v0-1
 - Status bar added, icon updated, identifier added
 - Gesture activation added; punch to activate, reverse punch to deactivate
