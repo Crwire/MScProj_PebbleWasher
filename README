@@ -3,14 +3,18 @@
 |----------------------------------------------------------------|
 | Author: Crwire                                                 |
 | Created: 24 June 2014                                          |
-| Updated: 01 August 2014                                        |
+| Updated: 11 October 2014                                       |
 +================================================================+
+NOTE: Project was submitted on 12th September 2014 and is no longer actively supported.
 
 This app is written in C for the Pebble SmartWatch to provide people a method of tracking their hand washing habits. Ultimately it is hoped to increase the handwashing statistic.
 
 +================================================================+
 | CHANGELOG                                                      |
 +================================================================+
+v0-5: Added a license
+- Added GPL license; use to your hearts content!
+
 v0-4: SmartWash PebbleWasher is officially in Beta!
 - Changed data storage from struct to string
 - Survey not working; to implement later
